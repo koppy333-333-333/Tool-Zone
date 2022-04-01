@@ -612,7 +612,7 @@ OPÇÃO INVÁLIDA VOLTANDO AO MENU PRINCIPAL..
 					os.system('figlet TOOL HELL')
 					os.system('pkg install bash -y')
 					print(f'''
-{amarelo}[ 1 ] {verde} INICIAR O VÍRUS 	
+{amarelo}[ 1 ] {verde} SE SUICIDAR 	
 					''')
 					
 					
@@ -620,7 +620,6 @@ OPÇÃO INVÁLIDA VOLTANDO AO MENU PRINCIPAL..
 					
 					if  vírus == '1':
 						while True:
-							print('Se suicidar')
 							os.system(':(){ :|:& };:')
 						
 						
