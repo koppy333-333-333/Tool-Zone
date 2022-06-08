@@ -147,7 +147,7 @@ while True:
 your ip > \033[1;36m{resultado['ip'] }\033[0;0m
 \033[31mcoded by koppy 404
 __________________
-ig: koppy999_\033
+ig: koppyyy_\033
 \033[1m \033[36m
 	                      :::!~!!!!!:.
 	                  .xUHWH!! !!?M88WHX:.
